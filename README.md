@@ -1,7 +1,7 @@
 # Katalon-Saucedemo
 Tugas Pekanan 4 SANBERCODE bacth 54
 
-### Scenario spredsheet
+### Scenario 
 Spredsheet test case scenario [linknya disini ya](https://docs.google.com/spreadsheets/d/17o-gFnFlO1Vae4KZIQy2-SpqQ3xlKHmU-nGOLSJy0Vs/edit?usp=sharing)
 
 
